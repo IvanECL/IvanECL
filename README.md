@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Durango, México. I'm 18 years old and I want to become a cybersecurity developer </h3>
 
 - 🌱 I’m currently learning **C++, Python, Java, Develop SW**
 
