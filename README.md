@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react, cybersecurity**
 
-- 📫 How to reach me **ivan.corral.isw@unipolidgo.edu.mx**
+- 📫 How to reach me **duyivan2106@gmail.com**
 
 - ⚡ Fun fact **I know how to program without knowing programming**
 
